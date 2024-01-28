@@ -1,0 +1,8 @@
+{
+  
+  "funcionarios": [
+    {"id": 1, "nome": "Everton Maia", "setor": "Suporte", "email": "everton@berp.com.br" },
+    {"id": 2,"nome": "Ivan ROdrigues", "setor": "Suporte", "email": "ivan@berp.com.br"},
+    {"id": 3,"nome": "Kelson Alves", "setor": "Desenvolvimento", "email": "Kelson@berp.com.br"}
+  ]
+}
